@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ec06e335-5269-4f6f-b9b1-383bf0c729f0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maven-springmvc.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/controller/HomeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/spring-mvc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/test.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/example/controller/HomeController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-springmvc.war" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-springmvc/WEB-INF/classes/log4j.propertis" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/tmp/jsp/org/apache/jsp/WEB_002dINF/views/index_jsp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/tmp/jsp/org/apache/jsp/WEB_002dINF/views/index_jsp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/tmp/jsp/org/apache/jsp/WEB_002dINF/views/test_jsp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/tmp/jsp/org/apache/jsp/WEB_002dINF/views/test_jsp.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Tag Library Descriptor" />
+        <option value="FxmlFile" />
+        <option value="Class" />
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\maven-springmvc\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Urq2SI5g6Prn89Gnu5YwXA1sDy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GO_FMT" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Properties" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\maven-springmvc\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="jetty" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="jetty:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ec06e335-5269-4f6f-b9b1-383bf0c729f0" name="Default Changelist" comment="" />
+      <created>1576124854420</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576124854420</updated>
+      <workItem from="1576124855805" duration="10411000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../git" />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2472" y="177" key="#Deployment" timestamp="1576140705159">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2472" y="177" key="#Deployment/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1576140705159" />
+    <state x="2334" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576133544981">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2334" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1576133544981" />
+    <state x="2604" y="308" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1576131244054">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2604" y="308" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1576131244054" />
+    <state x="2685" y="235" key="#com.intellij.ide.util.MemberChooser" timestamp="1576138448892">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2685" y="235" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1576138448892" />
+    <state x="2482" y="28" key="CommitChangelistDialog2" timestamp="1576140999136">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2482" y="28" key="CommitChangelistDialog2/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1576140999136" />
+    <state x="2660" y="259" key="FileChooserDialogImpl" timestamp="1576140635092">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2660" y="259" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1576140635092" />
+    <state x="2700" y="425" width="383" height="189" key="Github.CreateGistDialog" timestamp="1576140535177">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2700" y="425" width="383" height="189" key="Github.CreateGistDialog/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1576140535177" />
+    <state width="1873" height="155" key="GridCell.Tab.0.bottom" timestamp="1576140974497">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1873" height="155" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1576140974497" />
+    <state width="1873" height="155" key="GridCell.Tab.0.center" timestamp="1576140974497">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1873" height="155" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1576140974497" />
+    <state width="1873" height="155" key="GridCell.Tab.0.left" timestamp="1576140974497">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1873" height="155" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1576140974497" />
+    <state width="1873" height="155" key="GridCell.Tab.0.right" timestamp="1576140974497">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1873" height="155" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1576140974497" />
+    <state x="2360" y="93" key="SettingsEditor" timestamp="1576140651756">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2360" y="93" key="SettingsEditor/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1576140651756" />
+    <state x="2472" y="178" key="scopes" timestamp="1576125941024">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2472" y="178" key="scopes/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1576125941024" />
+  </component>
+</project>
